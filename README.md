@@ -1,2 +1,2 @@
 # js-basics
-A code repo for Javascript series
+A code repo for Javascript series in urdu
